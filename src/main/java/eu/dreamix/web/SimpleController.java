@@ -20,7 +20,7 @@ import javax.servlet.http.HttpServletRequest;
 public class SimpleController {
 
 	private final static Logger LOGGER = LoggerFactory.getLogger(SimpleController.class);
-	private final static String VERSION = "3.0.2";
+	private final static String VERSION = "4.0.2-HC";
 
 	private final ApplicationProperties appConfig;
 
